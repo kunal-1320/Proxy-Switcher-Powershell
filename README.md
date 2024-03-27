@@ -16,4 +16,6 @@ Proxy Server 1: put your proxy
 Proxy Server 2: put your proxy (_It is just for an alternate proxy_)
 Alternative Proxy: Proxy Server 2 is set as the alternative proxy server, which is used if Proxy Server 1 is not available.
 
+DON'T WRITE YOUR PROXY AND PORT INSIDE THE  STRINGS ""
+
 
