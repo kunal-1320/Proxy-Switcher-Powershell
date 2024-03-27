@@ -16,4 +16,4 @@ Proxy Server 1: put your proxy
 Proxy Server 2: put your proxy (_It is just for an alternate proxy_)
 Alternative Proxy: Proxy Server 2 is set as the alternative proxy server, which is used if Proxy Server 1 is not available.
 
-View Output: The script will display messages indicating the actions it has taken, such as enabling/disabling the proxy or changing the proxy server.
+
