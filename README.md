@@ -4,7 +4,7 @@ This PowerShell script simplifies proxy management on Windows. Easily enable, di
 **Note:** You need to specify the proxy server and port by editing the file in Notepad or another text editor.
 
 __**Instructions**__
-Download the Script: Download the ProxySettingChangeScript.ps1 file from this repository.
+Download the Script: Download the Proxy.ps1 file from this repository.
 
 Run as Administrator: Right-click on the script file and select "Run as administrator". This is important to ensure that the script can modify the necessary registry settings.
 
