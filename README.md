@@ -1,6 +1,7 @@
 # Proxy-Switcher-Powershell
 This PowerShell script simplifies proxy management on Windows. Easily enable, disable, or modify proxy settings with intuitive prompts. Supports single or dual proxy setups for flexibility. Execute with admin privileges for seamless adjustments. Simplify network connectivity with this efficient solution.
 
+**You have to put the proxy and port by editing file in notpad or something else**  
 Instructions
 Download the Script: Download the ProxySettingChangeScript.ps1 file from this repository.
 
